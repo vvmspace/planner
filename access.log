@@ -1,5 +1,0 @@
-176.215.9.178 - - [15/Jun/2018:11:38:40 +0300] "GET /robots.txt HTTP/1.1" 200 308 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.62 Safari/537.36"
-176.215.9.178 - - [15/Jun/2018:11:38:40 +0300] "GET / HTTP/1.1" 500 177028 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.62 Safari/537.36"
-176.215.9.178 - - [15/Jun/2018:11:38:43 +0300] "GET /favicon.ico HTTP/1.1" 200 296 "http://planner.vvm.space/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.62 Safari/537.36"
-176.215.9.178 - - [15/Jun/2018:11:39:47 +0300] "GET / HTTP/1.1" 200 1801 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.62 Safari/537.36"
-176.215.9.178 - - [15/Jun/2018:11:39:49 +0300] "GET /favicon.ico HTTP/1.1" 200 295 "http://planner.vvm.space/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.62 Safari/537.36"
