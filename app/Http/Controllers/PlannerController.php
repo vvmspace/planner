@@ -8,6 +8,9 @@ use Carbon\Carbon;
 class PlannerController extends Controller
 {
 	function planner(){
-		return (time() - strtotime('01.' . Carbon::now()->format('m.Y') . ' +5 hours')) / 60 / 60;
+	    $m_start = strtotime('01.' . Carbon::now()->format('m.Y') . ' +5 hours');
+	    $m_end = strtotime('01.' . Carbon::now()->format('m.Y') . ' +1 month 5 hours');
+	    $planned = 160 * (time() - $m_start) / ($m_end - $m_start);
+		return ['planned' => round($planned, 2)];
 	}
 }
