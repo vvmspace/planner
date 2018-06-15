@@ -4,9 +4,9 @@
   "name": "Hours Planner",
   "description": "Планирование рабочих часов",
   "browser_action": {
-    "default_icon": "img/icon.png",
+    "default_icon": "img/watches.png",
     "default_popup": "html/popup.html",
-    "default_title":"Chrome extension template"
+    "default_title":"Hours Planner"
   },
   "background": {
     "scripts": [
